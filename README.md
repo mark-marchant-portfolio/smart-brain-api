@@ -2,6 +2,9 @@
 
 [Click here to see the live app](https://safe-harbor-45948.herokuapp.com/)
 
+![alt text](/proofs/users.png)
+![alt text](/proofs/login.png)
+
 <h2>About:</h2>
 This is project was made with node/express server. Bcrypt was used to hash passwords for security. I used Clarifai API model to implement my facial recognition application. Postgres Sql was used to store user information.
 
